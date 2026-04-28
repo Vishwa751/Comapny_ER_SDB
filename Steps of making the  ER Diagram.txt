@@ -1,0 +1,25 @@
+Steps of making the  ER Diagram
+
+Step1: Mapping of Regular Entity Types 
+
+For each regular entity type create a relation (table) that includes all the simple attributes of that entity
+
+Step 2:Mapping of Weak Entity Types 
+
+For each regular entity type create a relation (table) that includes all the simple attributes of the weak entity
+
+
+Step 3:Mapping of Binary 1:1 Relationship Types 
+
+Include one side of the relationship as a foreign key in the other Favour total participation
+
+Step 4:Mapping of Binary 1:N Relationship Types
+
+Include the 1 side's primary key as a foreign key on the N Side relation(table)
+
+Step 5:Mapping of Binary M:N Relationship Types
+
+Create a new relation (table)who's primary key is a combination of both entites' primary key's Also include any relationship attributes 
+
+
+
