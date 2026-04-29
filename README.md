@@ -1,4 +1,4 @@
-CREATE TABLE Employee (
+<img width="1264" height="743" alt="image" src="https://github.com/user-attachments/assets/c5f1d30d-1f68-44bc-a6e1-73aa7d036472" />CREATE TABLE Employee (
     emp_id      INT PRIMARY KEY,
     first_name  VARCHAR(50),
     last_name   VARCHAR(50),
